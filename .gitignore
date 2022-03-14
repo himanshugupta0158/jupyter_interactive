@@ -104,6 +104,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.jupyter_webapp_venv
+jupyter_webapp_venv/
 env/
 venv/
 ENV/
