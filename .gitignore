@@ -107,6 +107,7 @@ celerybeat.pid
 .jupyter_webapp_venv
 jupyter_webapp_venv/
 *jupyter_webapp_venv
+/jupyter_webapp_venv
 env/
 venv/
 ENV/
